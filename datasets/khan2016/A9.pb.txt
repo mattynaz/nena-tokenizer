@@ -1,0 +1,1659 @@
+dialect: "Urmi (Christian)"
+title: "Much Ado About Nothing"
+text_id: "A9"
+transcription: "xá-…-yuma ⁺málla Nasràdənˈ bərrə̀xšələˈ ⁺ʾál … ⁺bàzar.ˈ … mdìta.ˈ … k̭a-bàxtu márələˈ mú ⁺báyyat mayyə̀nnax?ˈ … bàxta márəlaˈ hə̀č,ˈ hə̀č,ˈ hə̀čˈ ⁺yánə hə̀č-məndi.ˈ hə̀č márona,ˈ hə̀č.ˈ ⁺yánə hə̀č-məndi.ˈ … ⁺málla ⁺Nasràdənˈ har-vílə mən-⁺tárrət béta ⁺plàṱaˈ vílə màraˈ hə̀č,ˈ hə̀č,ˈ hə̀č,ˈ hə̀č,ˈ … k̭at-là manšívala.ˈ xə́šlə ⁺mṱílə ⁺ʾal-xa-dùcta,ˈ xzī́l xa-nára ⁺rába ⁺gùraˈ … ʾína nášə dúna bədvák̭a nùynə.ˈ … ⁺šmíṱəna gdìla,ˈ … ⁺šmíṱəna nùynə dvák̭əna.ˈ ʾína ⁺málla m-cəs-dánnə bərrə̀xšələˈ mára hə̀č,ˈ hə̀č,ˈ hə̀č,ˈ hə̀č.ˈ líšanət tùrcətˈ ⁺yánə hə́č hə́č-məndi. … ʾánnə yàləˈ ⁺rába crìbəva.ˈ šuršìyyəva,ˈ ⁺sìyyəva.ˈ tílun ⁺ʾal-gā́n ⁺màllaˈ mxàyu,ˈ ⁺bənpàsu.ˈ … mə̀rrəˈ … k̭a-mù márət hə̀č?ˈ mən-k̭édamta ʾáxnan ʾa-gdíla ⁺šmìṱuxˈ záhmat bəgrášax k̭át nùynə dók̭ax,ˈ ʾát márət hə́č hə̀č.ˈ mə́rrə bas-mù tánən?ˈ mə́rrə táni … sùrəˈ ⁺gùrəˈ sùrəˈ ⁺gùrəˈ ⁺yánə núynə sùrə dúk̭un,ˈ ⁺gùrə dok̭ítunˈ ⁺ràba.ˈ … ⁺málla xšə́vlə báxtu ⁺ṱlə́btəla súrə ⁺gùrə.ˈ … ⁺šurī́l bərrə̀xšaˈ vílə màraˈ … sùrəˈ ⁺gùrəˈ sùrəˈ ⁺gùrə.ˈ gu-dà-⁺danaˈ bəxzàyələˈ ʾína xá-dana motàna,ˈ … motàna,ˈ ⁺palùṱuna,ˈ labùluna,ˈ ⁺ṱamrìlə.ˈ ⁺bəddàyət?ˈ ⁺ṱamrìlə. … ⁺ʾávva꞊da vélə bəzmàra,ˈ màrələˈ sùrəˈ ⁺gùrəˈ sùrəˈ ⁺gùrə.ˈ ʾánnə bə̀xyənaˈ mxáyəna gu-rišè.ˈ ⁺ʾávva yála mìtələˈ ⁺ʾávva꞊da vélə mára sùrə,ˈ ⁺gùrə.ˈ ʾánnə nášə mār-…-mìtaˈ bitáyəna k̭a-dàhaˈ ⁺bənpàsəna,ˈ ⁺bənpàsəna,ˈ ⁺ʾúxča mxàyuna.ˈ mára ba-mù tánən?ˈ … ⁺yànəˈ məššəlmànələˈ ʾalàha manə́xlə.ˈ … məššəlmànələˈ ʾalàha manə́xlə.ˈ ʾáha ⁺šurílə bədra-k̭álə məššəlmànəlˈ ʾalàha manə́xlə.ˈ bás taxmùnəvaˈ báxtu ⁺ṱlə́btəla məššəlmànəlˈ ʾalàha manə́xlə.ˈ … bərrə̀xšəl,ˈ xa-dárya bərrə̀xšəl,ˈ bərrə́xša bəxzáyələ mən-xá-dana càlbaˈ … vélə mìtaˈ ʾu-dvík̭əna mən-ʾàk̭luˈ … gargùšunaˈ labúluna k̭at-⁺rappìlə gu-xaˈ gùybaˈ ⁺ṱamrìlə.ˈ … məššəlmànəlˈ ʾalàha manə́xləˈ bəzmàrəl.ˈ ʾávva tìləˈ ⁺ʾúxča mxìlun,ˈ ⁺ʾúxča mxìlun,ˈ cùllə və́dlun də̀mma.ˈ … mə́rrə dàx márət k̭a-càlbaˈ məššəlmànəlˈ ʾalàha manə́xlə?ˈ … k̭a-dá ⁺rába còtac yuvvə́llun.ˈ k̭ə̀mləˈ ⁺málla léva ⁺bašū́r javə̀jva.ˈ … léva ⁺bašū́r javə̀jva.ˈ vílə màraˈ … mə̀drə k̭a-càlbaˈ k̭átˈ … tàniˈ məššəlmànəlˈ táni mə́drə hə̀č.ˈ k̭a-cálba mə́rrə hə̀č.ˈ … ʾá mə́drə pə́llə ⁺ʾal-de-hə̀č.ˈ tílə nìxaˈ hə̀č,ˈ hə̀č,ˈ hə̀č,ˈ hə̀č.ˈ xa-b-xá-ga ⁺ʾúxča šuršìyyəvaˈ mən-šak̭ìtaˈ ʾə́ttən ʾátxa súrə šak̭iyyàtə gu-⁺xyavándə,ˈ ⁺bīl šavə̀rvaˈ šavə̀rvaˈ … hə́č munšiyyàlə.ˈ … xə́šlə bètaˈ ʾína cúllə gvíla gu-də̀mma.ˈ k̭a-báxtu mə̀rrəˈ ʾátən lè-⁺bayyat,ˈ lè-⁺bayyat,ˈ lé-⁺bayyat hə̀č mə́ndi,ˈ ʾína ʾé-⁺dān ⁺bàyyatˈ cotácət dúnyə gári ⁺ʾaxlə̀nnaˈ ⁺ʾáv꞊da lè mačxə́nne.ˈ … báxtu mə̀rraˈ ʾátən xmàrət.ˈ lḗt ⁺beddà,ˈ ʾàna mu-ʾódan?ˈ ʾána mə́rri hə̀č,ˈ ⁺yánə hə̀č-məndi.ˈ … ʾát k̭ímət k̭a-gánux xá-məndi zùrzətˈ cótac ⁺xìlət.ˈ gnāy-dìyyi mú꞊ila?ˈ …"
+timestamps: {
+  timestamp: 0.3200255
+}
+timestamps: {
+  position: 4
+  timestamp: 0.38003027
+}
+timestamps: {
+  position: 6
+  timestamp: 1.6201291
+}
+timestamps: {
+  position: 11
+  timestamp: 1.9401546
+}
+timestamps: {
+  position: 19
+  timestamp: 2.1801736
+}
+timestamps: {
+  position: 30
+  timestamp: 2.9802375
+}
+timestamps: {
+  position: 43
+  timestamp: 3.6202884
+}
+timestamps: {
+  position: 49
+  timestamp: 4.0203204
+}
+timestamps: {
+  position: 51
+  timestamp: 5.2604194
+}
+timestamps: {
+  position: 61
+  timestamp: 5.8004622
+}
+timestamps: {
+  position: 63
+  timestamp: 7.000558
+}
+timestamps: {
+  position: 72
+  timestamp: 7.480596
+}
+timestamps: {
+  position: 74
+  timestamp: 8.700693
+}
+timestamps: {
+  position: 78
+  timestamp: 8.840704
+}
+timestamps: {
+  position: 85
+  timestamp: 9.180732
+}
+timestamps: {
+  position: 94
+  timestamp: 10.240816
+}
+timestamps: {
+  position: 98
+  timestamp: 10.460834
+}
+timestamps: {
+  position: 107
+  timestamp: 10.780859
+}
+timestamps: {
+  position: 120
+  timestamp: 11.3009
+}
+timestamps: {
+  position: 122
+  timestamp: 12.480994
+}
+timestamps: {
+  position: 129
+  timestamp: 12.861025
+}
+timestamps: {
+  position: 138
+  timestamp: 13.981114
+}
+timestamps: {
+  position: 145
+  timestamp: 14.7811775
+}
+timestamps: {
+  position: 152
+  timestamp: 15.501235
+}
+timestamps: {
+  position: 158
+  timestamp: 15.781258
+}
+timestamps: {
+  position: 165
+  timestamp: 16.041279
+}
+timestamps: {
+  position: 170
+  timestamp: 16.3213
+}
+timestamps: {
+  position: 178
+  timestamp: 17.20137
+}
+timestamps: {
+  position: 183
+  timestamp: 17.481394
+}
+timestamps: {
+  position: 193
+  timestamp: 17.981432
+}
+timestamps: {
+  position: 200
+  timestamp: 18.961512
+}
+timestamps: {
+  position: 207
+  timestamp: 19.161528
+}
+timestamps: {
+  position: 212
+  timestamp: 19.421547
+}
+timestamps: {
+  position: 220
+  timestamp: 19.621563
+}
+timestamps: {
+  position: 222
+  timestamp: 21.641724
+}
+timestamps: {
+  position: 230
+  timestamp: 21.901745
+}
+timestamps: {
+  position: 242
+  timestamp: 23.361862
+}
+timestamps: {
+  position: 246
+  timestamp: 23.541876
+}
+timestamps: {
+  position: 252
+  timestamp: 23.901905
+}
+timestamps: {
+  position: 256
+  timestamp: 24.501953
+}
+timestamps: {
+  position: 265
+  timestamp: 24.84198
+}
+timestamps: {
+  position: 271
+  timestamp: 25.202007
+}
+timestamps: {
+  position: 280
+  timestamp: 25.642044
+}
+timestamps: {
+  position: 286
+  timestamp: 25.942066
+}
+timestamps: {
+  position: 293
+  timestamp: 26.282095
+}
+timestamps: {
+  position: 300
+  timestamp: 26.842138
+}
+timestamps: {
+  position: 307
+  timestamp: 27.342178
+}
+timestamps: {
+  position: 314
+  timestamp: 27.882221
+}
+timestamps: {
+  position: 321
+  timestamp: 28.162245
+}
+timestamps: {
+  position: 323
+  timestamp: 29.382341
+}
+timestamps: {
+  position: 328
+  timestamp: 29.522352
+}
+timestamps: {
+  position: 332
+  timestamp: 29.702366
+}
+timestamps: {
+  position: 345
+  timestamp: 31.242489
+}
+timestamps: {
+  position: 352
+  timestamp: 31.482508
+}
+timestamps: {
+  position: 360
+  timestamp: 31.742529
+}
+timestamps: {
+  position: 365
+  timestamp: 31.902542
+}
+timestamps: {
+  position: 368
+  timestamp: 32.162563
+}
+timestamps: {
+  position: 377
+  timestamp: 32.50259
+}
+timestamps: {
+  position: 384
+  timestamp: 32.78261
+}
+timestamps: {
+  position: 387
+  timestamp: 32.962627
+}
+timestamps: {
+  position: 393
+  timestamp: 33.36266
+}
+timestamps: {
+  position: 400
+  timestamp: 33.682682
+}
+timestamps: {
+  position: 408
+  timestamp: 33.982708
+}
+timestamps: {
+  position: 410
+  timestamp: 35.24281
+}
+timestamps: {
+  position: 416
+  timestamp: 35.54283
+}
+timestamps: {
+  position: 422
+  timestamp: 35.902863
+}
+timestamps: {
+  position: 428
+  timestamp: 36.24289
+}
+timestamps: {
+  position: 438
+  timestamp: 36.802933
+}
+timestamps: {
+  position: 447
+  timestamp: 37.222965
+}
+timestamps: {
+  position: 449
+  timestamp: 38.44306
+}
+timestamps: {
+  position: 459
+  timestamp: 39.083115
+}
+timestamps: {
+  position: 468
+  timestamp: 39.603157
+}
+timestamps: {
+  position: 470
+  timestamp: 41.94334
+}
+timestamps: {
+  position: 480
+  timestamp: 42.483387
+}
+timestamps: {
+  position: 487
+  timestamp: 42.6634
+}
+timestamps: {
+  position: 499
+  timestamp: 43.583473
+}
+timestamps: {
+  position: 505
+  timestamp: 44.243526
+}
+timestamps: {
+  position: 513
+  timestamp: 44.503548
+}
+timestamps: {
+  position: 515
+  timestamp: 44.603554
+}
+timestamps: {
+  position: 519
+  timestamp: 44.763565
+}
+timestamps: {
+  position: 526
+  timestamp: 45.04359
+}
+timestamps: {
+  position: 539
+  timestamp: 45.68364
+}
+timestamps: {
+  position: 545
+  timestamp: 45.983665
+}
+timestamps: {
+  position: 552
+  timestamp: 46.643715
+}
+timestamps: {
+  position: 559
+  timestamp: 47.223763
+}
+timestamps: {
+  position: 566
+  timestamp: 47.763805
+}
+timestamps: {
+  position: 573
+  timestamp: 48.343853
+}
+timestamps: {
+  position: 582
+  timestamp: 48.68388
+}
+timestamps: {
+  position: 591
+  timestamp: 49.063908
+}
+timestamps: {
+  position: 598
+  timestamp: 49.283928
+}
+timestamps: {
+  position: 603
+  timestamp: 49.54395
+}
+timestamps: {
+  position: 608
+  timestamp: 49.80397
+}
+timestamps: {
+  position: 615
+  timestamp: 50.063988
+}
+timestamps: {
+  position: 617
+  timestamp: 51.164078
+}
+timestamps: {
+  position: 624
+  timestamp: 51.504105
+}
+timestamps: {
+  position: 631
+  timestamp: 51.924137
+}
+timestamps: {
+  position: 638
+  timestamp: 52.244164
+}
+timestamps: {
+  position: 649
+  timestamp: 53.124233
+}
+timestamps: {
+  position: 663
+  timestamp: 54.08431
+}
+timestamps: {
+  position: 675
+  timestamp: 55.264404
+}
+timestamps: {
+  position: 682
+  timestamp: 55.58443
+}
+timestamps: {
+  position: 687
+  timestamp: 55.684437
+}
+timestamps: {
+  position: 693
+  timestamp: 55.944458
+}
+timestamps: {
+  position: 702
+  timestamp: 56.784523
+}
+timestamps: {
+  position: 711
+  timestamp: 57.34457
+}
+timestamps: {
+  position: 723
+  timestamp: 57.94462
+}
+timestamps: {
+  position: 725
+  timestamp: 60.00478
+}
+timestamps: {
+  position: 733
+  timestamp: 60.184795
+}
+timestamps: {
+  position: 735
+  timestamp: 61.24488
+}
+timestamps: {
+  position: 739
+  timestamp: 61.38489
+}
+timestamps: {
+  position: 743
+  timestamp: 61.5049
+}
+timestamps: {
+  position: 750
+  timestamp: 61.784924
+}
+timestamps: {
+  position: 757
+  timestamp: 62.664993
+}
+timestamps: {
+  position: 761
+  timestamp: 62.925014
+}
+timestamps: {
+  position: 771
+  timestamp: 63.405052
+}
+timestamps: {
+  position: 779
+  timestamp: 63.60507
+}
+timestamps: {
+  position: 782
+  timestamp: 63.685074
+}
+timestamps: {
+  position: 789
+  timestamp: 64.10511
+}
+timestamps: {
+  position: 799
+  timestamp: 64.60515
+}
+timestamps: {
+  position: 807
+  timestamp: 64.92517
+}
+timestamps: {
+  position: 817
+  timestamp: 65.34521
+}
+timestamps: {
+  position: 823
+  timestamp: 65.70524
+}
+timestamps: {
+  position: 830
+  timestamp: 65.98526
+}
+timestamps: {
+  position: 840
+  timestamp: 66.96534
+}
+timestamps: {
+  position: 845
+  timestamp: 67.12535
+}
+timestamps: {
+  position: 852
+  timestamp: 67.365364
+}
+timestamps: {
+  position: 857
+  timestamp: 67.64539
+}
+timestamps: {
+  position: 864
+  timestamp: 68.90549
+}
+timestamps: {
+  position: 871
+  timestamp: 69.10551
+}
+timestamps: {
+  position: 875
+  timestamp: 69.30552
+}
+timestamps: {
+  position: 879
+  timestamp: 69.52554
+}
+timestamps: {
+  position: 888
+  timestamp: 70.2656
+}
+timestamps: {
+  position: 895
+  timestamp: 70.48562
+}
+timestamps: {
+  position: 901
+  timestamp: 70.78564
+}
+timestamps: {
+  position: 903
+  timestamp: 73.62587
+}
+timestamps: {
+  position: 910
+  timestamp: 74.705956
+}
+timestamps: {
+  position: 918
+  timestamp: 75.54602
+}
+timestamps: {
+  position: 925
+  timestamp: 76.44609
+}
+timestamps: {
+  position: 933
+  timestamp: 76.92613
+}
+timestamps: {
+  position: 940
+  timestamp: 77.22615
+}
+timestamps: {
+  position: 947
+  timestamp: 77.58618
+}
+timestamps: {
+  position: 953
+  timestamp: 77.92621
+}
+timestamps: {
+  position: 963
+  timestamp: 78.48625
+}
+timestamps: {
+  position: 970
+  timestamp: 78.84628
+}
+timestamps: {
+  position: 981
+  timestamp: 79.366325
+}
+timestamps: {
+  position: 990
+  timestamp: 79.68635
+}
+timestamps: {
+  position: 992
+  timestamp: 80.96645
+}
+timestamps: {
+  position: 1000
+  timestamp: 81.26647
+}
+timestamps: {
+  position: 1008
+  timestamp: 81.666504
+}
+timestamps: {
+  position: 1015
+  timestamp: 81.96653
+}
+timestamps: {
+  position: 1026
+  timestamp: 82.40656
+}
+timestamps: {
+  position: 1032
+  timestamp: 82.72659
+}
+timestamps: {
+  position: 1041
+  timestamp: 83.046616
+}
+timestamps: {
+  position: 1043
+  timestamp: 84.70675
+}
+timestamps: {
+  position: 1052
+  timestamp: 85.006775
+}
+timestamps: {
+  position: 1063
+  timestamp: 85.50681
+}
+timestamps: {
+  position: 1069
+  timestamp: 85.72683
+}
+timestamps: {
+  position: 1076
+  timestamp: 85.986855
+}
+timestamps: {
+  position: 1078
+  timestamp: 88.18703
+}
+timestamps: {
+  position: 1085
+  timestamp: 89.0471
+}
+timestamps: {
+  position: 1093
+  timestamp: 89.76715
+}
+timestamps: {
+  position: 1100
+  timestamp: 90.3672
+}
+timestamps: {
+  position: 1109
+  timestamp: 91.5673
+}
+timestamps: {
+  position: 1112
+  timestamp: 91.72731
+}
+timestamps: {
+  position: 1116
+  timestamp: 91.94733
+}
+timestamps: {
+  position: 1123
+  timestamp: 92.8674
+}
+timestamps: {
+  position: 1135
+  timestamp: 93.38744
+}
+timestamps: {
+  position: 1141
+  timestamp: 93.52745
+}
+timestamps: {
+  position: 1145
+  timestamp: 93.667465
+}
+timestamps: {
+  position: 1150
+  timestamp: 93.94749
+}
+timestamps: {
+  position: 1160
+  timestamp: 94.567535
+}
+timestamps: {
+  position: 1162
+  timestamp: 96.76771
+}
+timestamps: {
+  position: 1172
+  timestamp: 98.06782
+}
+timestamps: {
+  position: 1185
+  timestamp: 98.70786
+}
+timestamps: {
+  position: 1197
+  timestamp: 99.967964
+}
+timestamps: {
+  position: 1209
+  timestamp: 101.44808
+}
+timestamps: {
+  position: 1222
+  timestamp: 102.72819
+}
+timestamps: {
+  position: 1233
+  timestamp: 103.20822
+}
+timestamps: {
+  position: 1235
+  timestamp: 107.108536
+}
+timestamps: {
+  position: 1246
+  timestamp: 107.50857
+}
+timestamps: {
+  position: 1252
+  timestamp: 107.768585
+}
+timestamps: {
+  position: 1263
+  timestamp: 109.06869
+}
+timestamps: {
+  position: 1272
+  timestamp: 110.14877
+}
+timestamps: {
+  position: 1279
+  timestamp: 110.988846
+}
+timestamps: {
+  position: 1287
+  timestamp: 111.728905
+}
+timestamps: {
+  position: 1294
+  timestamp: 112.508965
+}
+timestamps: {
+  position: 1303
+  timestamp: 113.34903
+}
+timestamps: {
+  position: 1310
+  timestamp: 114.14909
+}
+timestamps: {
+  position: 1320
+  timestamp: 114.82915
+}
+timestamps: {
+  position: 1329
+  timestamp: 115.20918
+}
+timestamps: {
+  position: 1332
+  timestamp: 115.34919
+}
+timestamps: {
+  position: 1340
+  timestamp: 116.16926
+}
+timestamps: {
+  position: 1348
+  timestamp: 116.64929
+}
+timestamps: {
+  position: 1354
+  timestamp: 117.02933
+}
+timestamps: {
+  position: 1363
+  timestamp: 117.72938
+}
+timestamps: {
+  position: 1374
+  timestamp: 118.04941
+}
+timestamps: {
+  position: 1380
+  timestamp: 118.22942
+}
+timestamps: {
+  position: 1386
+  timestamp: 118.58945
+}
+timestamps: {
+  position: 1394
+  timestamp: 119.049484
+}
+timestamps: {
+  position: 1403
+  timestamp: 120.28958
+}
+timestamps: {
+  position: 1410
+  timestamp: 120.60961
+}
+timestamps: {
+  position: 1416
+  timestamp: 121.06965
+}
+timestamps: {
+  position: 1421
+  timestamp: 121.249664
+}
+timestamps: {
+  position: 1423
+  timestamp: 125.009964
+}
+timestamps: {
+  position: 1430
+  timestamp: 125.93003
+}
+timestamps: {
+  position: 1440
+  timestamp: 126.43008
+}
+timestamps: {
+  position: 1444
+  timestamp: 126.59009
+}
+timestamps: {
+  position: 1451
+  timestamp: 127.03012
+}
+timestamps: {
+  position: 1465
+  timestamp: 127.85019
+}
+timestamps: {
+  position: 1479
+  timestamp: 128.67026
+}
+timestamps: {
+  position: 1487
+  timestamp: 129.01028
+}
+timestamps: {
+  position: 1498
+  timestamp: 130.07036
+}
+timestamps: {
+  position: 1504
+  timestamp: 130.33038
+}
+timestamps: {
+  position: 1507
+  timestamp: 130.4904
+}
+timestamps: {
+  position: 1511
+  timestamp: 130.71042
+}
+timestamps: {
+  position: 1520
+  timestamp: 131.13045
+}
+timestamps: {
+  position: 1522
+  timestamp: 135.4108
+}
+timestamps: {
+  position: 1530
+  timestamp: 135.79082
+}
+timestamps: {
+  position: 1545
+  timestamp: 136.6509
+}
+timestamps: {
+  position: 1553
+  timestamp: 136.95091
+}
+timestamps: {
+  position: 1564
+  timestamp: 137.45096
+}
+timestamps: {
+  position: 1566
+  timestamp: 138.51103
+}
+timestamps: {
+  position: 1581
+  timestamp: 139.29109
+}
+timestamps: {
+  position: 1589
+  timestamp: 139.57112
+}
+timestamps: {
+  position: 1600
+  timestamp: 140.97124
+}
+timestamps: {
+  position: 1606
+  timestamp: 141.27126
+}
+timestamps: {
+  position: 1615
+  timestamp: 141.65129
+}
+timestamps: {
+  position: 1621
+  timestamp: 141.95131
+}
+timestamps: {
+  position: 1628
+  timestamp: 142.25133
+}
+timestamps: {
+  position: 1642
+  timestamp: 143.05139
+}
+timestamps: {
+  position: 1650
+  timestamp: 143.33142
+}
+timestamps: {
+  position: 1661
+  timestamp: 144.13148
+}
+timestamps: {
+  position: 1666
+  timestamp: 144.3315
+}
+timestamps: {
+  position: 1678
+  timestamp: 144.93155
+}
+timestamps: {
+  position: 1685
+  timestamp: 145.33157
+}
+timestamps: {
+  position: 1696
+  timestamp: 145.85162
+}
+timestamps: {
+  position: 1710
+  timestamp: 146.71169
+}
+timestamps: {
+  position: 1718
+  timestamp: 146.99171
+}
+timestamps: {
+  position: 1729
+  timestamp: 147.41174
+}
+timestamps: {
+  position: 1731
+  timestamp: 150.39198
+}
+timestamps: {
+  position: 1744
+  timestamp: 150.85202
+}
+timestamps: {
+  position: 1747
+  timestamp: 150.99203
+}
+timestamps: {
+  position: 1754
+  timestamp: 151.29205
+}
+timestamps: {
+  position: 1767
+  timestamp: 151.65208
+}
+timestamps: {
+  position: 1777
+  timestamp: 152.09212
+}
+timestamps: {
+  position: 1788
+  timestamp: 152.63216
+}
+timestamps: {
+  position: 1792
+  timestamp: 152.73216
+}
+timestamps: {
+  position: 1796
+  timestamp: 152.85217
+}
+timestamps: {
+  position: 1801
+  timestamp: 153.0722
+}
+timestamps: {
+  position: 1809
+  timestamp: 153.49223
+}
+timestamps: {
+  position: 1811
+  timestamp: 155.95242
+}
+timestamps: {
+  position: 1817
+  timestamp: 156.17244
+}
+timestamps: {
+  position: 1824
+  timestamp: 156.55247
+}
+timestamps: {
+  position: 1827
+  timestamp: 158.1126
+}
+timestamps: {
+  position: 1837
+  timestamp: 158.57263
+}
+timestamps: {
+  position: 1841
+  timestamp: 158.75266
+}
+timestamps: {
+  position: 1850
+  timestamp: 159.11267
+}
+timestamps: {
+  position: 1852
+  timestamp: 160.85281
+}
+timestamps: {
+  position: 1864
+  timestamp: 161.73288
+}
+timestamps: {
+  position: 1874
+  timestamp: 162.27293
+}
+timestamps: {
+  position: 1879
+  timestamp: 162.43294
+}
+timestamps: {
+  position: 1889
+  timestamp: 162.89297
+}
+timestamps: {
+  position: 1892
+  timestamp: 163.03299
+}
+timestamps: {
+  position: 1896
+  timestamp: 164.03307
+}
+timestamps: {
+  position: 1904
+  timestamp: 164.73312
+}
+timestamps: {
+  position: 1916
+  timestamp: 165.23317
+}
+timestamps: {
+  position: 1918
+  timestamp: 170.7536
+}
+timestamps: {
+  position: 1932
+  timestamp: 171.61368
+}
+timestamps: {
+  position: 1940
+  timestamp: 171.9137
+}
+timestamps: {
+  position: 1950
+  timestamp: 173.07379
+}
+timestamps: {
+  position: 1962
+  timestamp: 174.03387
+}
+timestamps: {
+  position: 1969
+  timestamp: 174.3339
+}
+timestamps: {
+  position: 1976
+  timestamp: 174.65392
+}
+timestamps: {
+  position: 1984
+  timestamp: 174.91394
+}
+timestamps: {
+  position: 1994
+  timestamp: 175.23396
+}
+timestamps: {
+  position: 2002
+  timestamp: 175.45398
+}
+timestamps: {
+  position: 2012
+  timestamp: 175.91402
+}
+timestamps: {
+  position: 2019
+  timestamp: 176.63408
+}
+timestamps: {
+  position: 2027
+  timestamp: 176.9541
+}
+timestamps: {
+  position: 2036
+  timestamp: 177.25412
+}
+timestamps: {
+  position: 2038
+  timestamp: 178.2742
+}
+timestamps: {
+  position: 2045
+  timestamp: 178.49422
+}
+timestamps: {
+  position: 2050
+  timestamp: 178.77425
+}
+timestamps: {
+  position: 2057
+  timestamp: 179.07426
+}
+timestamps: {
+  position: 2061
+  timestamp: 179.21428
+}
+timestamps: {
+  position: 2069
+  timestamp: 180.35437
+}
+timestamps: {
+  position: 2083
+  timestamp: 181.09444
+}
+timestamps: {
+  position: 2091
+  timestamp: 181.35445
+}
+timestamps: {
+  position: 2102
+  timestamp: 181.81448
+}
+timestamps: {
+  position: 2104
+  timestamp: 184.75471
+}
+timestamps: {
+  position: 2108
+  timestamp: 184.89473
+}
+timestamps: {
+  position: 2112
+  timestamp: 185.11475
+}
+timestamps: {
+  position: 2119
+  timestamp: 185.55478
+}
+timestamps: {
+  position: 2126
+  timestamp: 185.8948
+}
+timestamps: {
+  position: 2139
+  timestamp: 186.33485
+}
+timestamps: {
+  position: 2148
+  timestamp: 187.01491
+}
+timestamps: {
+  position: 2156
+  timestamp: 187.37492
+}
+timestamps: {
+  position: 2162
+  timestamp: 187.63495
+}
+timestamps: {
+  position: 2171
+  timestamp: 187.97498
+}
+timestamps: {
+  position: 2182
+  timestamp: 188.47502
+}
+timestamps: {
+  position: 2184
+  timestamp: 189.4751
+}
+timestamps: {
+  position: 2190
+  timestamp: 189.6551
+}
+timestamps: {
+  position: 2199
+  timestamp: 189.95514
+}
+timestamps: {
+  position: 2210
+  timestamp: 190.89522
+}
+timestamps: {
+  position: 2216
+  timestamp: 191.21524
+}
+timestamps: {
+  position: 2223
+  timestamp: 191.57527
+}
+timestamps: {
+  position: 2225
+  timestamp: 192.63535
+}
+timestamps: {
+  position: 2232
+  timestamp: 193.91545
+}
+timestamps: {
+  position: 2236
+  timestamp: 194.35548
+}
+timestamps: {
+  position: 2244
+  timestamp: 194.71552
+}
+timestamps: {
+  position: 2251
+  timestamp: 194.85553
+}
+timestamps: {
+  position: 2253
+  timestamp: 197.67575
+}
+timestamps: {
+  position: 2260
+  timestamp: 198.39581
+}
+timestamps: {
+  position: 2274
+  timestamp: 198.97586
+}
+timestamps: {
+  position: 2280
+  timestamp: 199.23587
+}
+timestamps: {
+  position: 2287
+  timestamp: 199.47589
+}
+timestamps: {
+  position: 2294
+  timestamp: 199.95593
+}
+timestamps: {
+  position: 2298
+  timestamp: 200.09595
+}
+timestamps: {
+  position: 2305
+  timestamp: 200.43597
+}
+timestamps: {
+  position: 2312
+  timestamp: 200.65599
+}
+timestamps: {
+  position: 2319
+  timestamp: 200.876
+}
+timestamps: {
+  position: 2321
+  timestamp: 202.27612
+}
+timestamps: {
+  position: 2325
+  timestamp: 202.43613
+}
+timestamps: {
+  position: 2332
+  timestamp: 202.67615
+}
+timestamps: {
+  position: 2339
+  timestamp: 202.81616
+}
+timestamps: {
+  position: 2344
+  timestamp: 202.93617
+}
+timestamps: {
+  position: 2347
+  timestamp: 203.09618
+}
+timestamps: {
+  position: 2354
+  timestamp: 204.19627
+}
+timestamps: {
+  position: 2360
+  timestamp: 204.5563
+}
+timestamps: {
+  position: 2367
+  timestamp: 204.91632
+}
+timestamps: {
+  position: 2374
+  timestamp: 205.21635
+}
+timestamps: {
+  position: 2381
+  timestamp: 205.45638
+}
+timestamps: {
+  position: 2388
+  timestamp: 205.6964
+}
+timestamps: {
+  position: 2395
+  timestamp: 205.8764
+}
+timestamps: {
+  position: 2398
+  timestamp: 205.99641
+}
+timestamps: {
+  position: 2400
+  timestamp: 206.05641
+}
+timestamps: {
+  position: 2404
+  timestamp: 206.19643
+}
+timestamps: {
+  position: 2407
+  timestamp: 206.29643
+}
+timestamps: {
+  position: 2415
+  timestamp: 206.53645
+}
+timestamps: {
+  position: 2428
+  timestamp: 208.05658
+}
+timestamps: {
+  position: 2432
+  timestamp: 208.2166
+}
+timestamps: {
+  position: 2442
+  timestamp: 209.5367
+}
+timestamps: {
+  position: 2450
+  timestamp: 209.75671
+}
+timestamps: {
+  position: 2457
+  timestamp: 210.21675
+}
+timestamps: {
+  position: 2463
+  timestamp: 210.53677
+}
+timestamps: {
+  position: 2475
+  timestamp: 211.15683
+}
+timestamps: {
+  position: 2478
+  timestamp: 211.27684
+}
+timestamps: {
+  position: 2491
+  timestamp: 212.73695
+}
+timestamps: {
+  position: 2497
+  timestamp: 212.95697
+}
+timestamps: {
+  position: 2507
+  timestamp: 214.31708
+}
+timestamps: {
+  position: 2517
+  timestamp: 216.13722
+}
+timestamps: {
+  position: 2519
+  timestamp: 217.25731
+}
+timestamps: {
+  position: 2524
+  timestamp: 217.53734
+}
+timestamps: {
+  position: 2538
+  timestamp: 218.19739
+}
+timestamps: {
+  position: 2540
+  timestamp: 221.07762
+}
+timestamps: {
+  position: 2547
+  timestamp: 221.43764
+}
+timestamps: {
+  position: 2554
+  timestamp: 221.85768
+}
+timestamps: {
+  position: 2560
+  timestamp: 223.05777
+}
+timestamps: {
+  position: 2567
+  timestamp: 223.85783
+}
+timestamps: {
+  position: 2574
+  timestamp: 224.19786
+}
+timestamps: {
+  position: 2577
+  timestamp: 224.35788
+}
+timestamps: {
+  position: 2586
+  timestamp: 225.47797
+}
+timestamps: {
+  position: 2590
+  timestamp: 225.59798
+}
+timestamps: {
+  position: 2597
+  timestamp: 225.97801
+}
+timestamps: {
+  position: 2605
+  timestamp: 226.43805
+}
+timestamps: {
+  position: 2612
+  timestamp: 226.79807
+}
+timestamps: {
+  position: 2616
+  timestamp: 226.95808
+}
+timestamps: {
+  position: 2626
+  timestamp: 227.2581
+}
+timestamps: {
+  position: 2630
+  timestamp: 227.39812
+}
+timestamps: {
+  position: 2640
+  timestamp: 227.67815
+}
+timestamps: {
+  position: 2644
+  timestamp: 227.79816
+}
+timestamps: {
+  position: 2652
+  timestamp: 228.03818
+}
+timestamps: {
+  position: 2657
+  timestamp: 228.2582
+}
+timestamps: {
+  position: 2666
+  timestamp: 228.4982
+}
+timestamps: {
+  position: 2672
+  timestamp: 228.71823
+}
+timestamps: {
+  position: 2676
+  timestamp: 228.83824
+}
+timestamps: {
+  position: 2682
+  timestamp: 229.03825
+}
+timestamps: {
+  position: 2692
+  timestamp: 229.81831
+}
+timestamps: {
+  position: 2701
+  timestamp: 230.43835
+}
+timestamps: {
+  position: 2708
+  timestamp: 230.75839
+}
+timestamps: {
+  position: 2714
+  timestamp: 231.19843
+}
+timestamps: {
+  position: 2726
+  timestamp: 231.79848
+}
+timestamps: {
+  position: 2735
+  timestamp: 232.0985
+}
+timestamps: {
+  position: 2739
+  timestamp: 232.23851
+}
+timestamps: {
+  position: 2751
+  timestamp: 232.67854
+}
+timestamps: {
+  position: 2753
+  timestamp: 234.93872
+}
+timestamps: {
+  position: 2760
+  timestamp: 235.27875
+}
+timestamps: {
+  position: 2768
+  timestamp: 235.59877
+}
+timestamps: {
+  position: 2775
+  timestamp: 235.99881
+}
+timestamps: {
+  position: 2785
+  timestamp: 237.2789
+}
+timestamps: {
+  position: 2791
+  timestamp: 237.49892
+}
+timestamps: {
+  position: 2801
+  timestamp: 237.79895
+}
+timestamps: {
+  position: 2807
+  timestamp: 238.17899
+}
+timestamps: {
+  position: 2810
+  timestamp: 238.29898
+}
+timestamps: {
+  position: 2819
+  timestamp: 238.69902
+}
+timestamps: {
+  position: 2825
+  timestamp: 239.01904
+}
+timestamps: {
+  position: 2832
+  timestamp: 239.25906
+}
+timestamps: {
+  position: 2839
+  timestamp: 239.57909
+}
+timestamps: {
+  position: 2846
+  timestamp: 239.83911
+}
+timestamps: {
+  position: 2851
+  timestamp: 240.07913
+}
+timestamps: {
+  position: 2859
+  timestamp: 240.29915
+}
+timestamps: {
+  position: 2861
+  timestamp: 241.77927
+}
+timestamps: {
+  position: 2866
+  timestamp: 241.97928
+}
+timestamps: {
+  position: 2874
+  timestamp: 242.27931
+}
+timestamps: {
+  position: 2878
+  timestamp: 242.3993
+}
+timestamps: {
+  position: 2885
+  timestamp: 242.65933
+}
+timestamps: {
+  position: 2889
+  timestamp: 242.77934
+}
+timestamps: {
+  position: 2895
+  timestamp: 242.97935
+}
+timestamps: {
+  position: 2904
+  timestamp: 243.35939
+}
+timestamps: {
+  position: 2911
+  timestamp: 243.69942
+}
+timestamps: {
+  position: 2921
+  timestamp: 244.11945
+}
+timestamps: {
+  position: 2927
+  timestamp: 244.39948
+}
+timestamps: {
+  position: 2934
+  timestamp: 244.6995
+}
+timestamps: {
+  position: 2944
+  timestamp: 246.85966
+}
